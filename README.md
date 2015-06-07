@@ -1,28 +1,28 @@
-# CONTACTS API
-Simple Contact API for testing/training/workshop purpose
+# Contacts REST API
+A Simple Contact API for testing/training/workshop purpose
 
-## 1. REQUIREMENTS
+## 1. Requirements
 1. Apache/NGINX with PHP5
 2. MySQL
 
-## 2. INSTALL
+## 2. Installaton
 1. Import MySQL from file **import.sql**
 2. Update MySQL Credentials in **index.php**, Check TODOs
 
-## 3. REQUIRED PARAMETERS
+## 3. API Parameters
 
-### SELECT
+### Select
 * k = test
 * c = 1
 
-### CREATE
+### Create
 * k = test
 * c = 2
 * name = **User Input**
 * email = **User Input**
 * mobile = **User Input**
 
-### UPDATE
+### Update
 * k = test
 * c = 3
 * id = **User Input**
@@ -30,7 +30,7 @@ Simple Contact API for testing/training/workshop purpose
 * email = **User Input**
 * mobile = **User Input**
 
-### DELETE
+### Delete
 * k = test
 * c = 4
 * id = **User Input**
