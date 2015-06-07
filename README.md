@@ -34,3 +34,9 @@ A Simple Contact API for testing/training/workshop purpose
 * k = test
 * c = 4
 * id = **User Input**
+
+## 4. Import to Postman
+1. Open Postman
+2. Click **Import**
+3. Upload **postman.json**
+ 
